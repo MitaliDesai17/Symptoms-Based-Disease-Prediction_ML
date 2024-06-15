@@ -1,1 +1,1 @@
-# Symptoms-Based-Disease-Prediction_ML
+# symptom-based-disease-prediction
